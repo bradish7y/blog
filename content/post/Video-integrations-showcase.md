@@ -1,6 +1,6 @@
 ---
 title: Video integrations showcase
-date: 2017-05-011
+date: 2017-05-11
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
 categories:
